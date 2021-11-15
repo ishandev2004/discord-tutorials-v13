@@ -1,0 +1,21 @@
+{
+  "name": "djs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-giveaways": "^5.0.1",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^13.2.0",
+    "glob": "^7.1.7",
+    "mongoose": "^6.0.2",
+    "ms": "^2.1.3"
+  }
+}
